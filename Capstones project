@@ -1,0 +1,5 @@
+https://eu-north-1.console.aws.amazon.com/ec2/home?region=eu-north-1#LoadBalancer:loadBalancerArn=arn:aws:elasticloadbalancing:eu-north-1:471112780091:loadbalancer/app/Wordpress-web-ALB/505cc9acc88bcc12;tab=listeners
+
+https://eu-north-1.console.aws.amazon.com/ec2/home?region=eu-north-1#Instances:v=3;$case=tags:true%5C,client:false;$regex=tags:false%5C,client:false
+
+https://eu-north-1.console.aws.amazon.com/ec2/home?region=eu-north-1#LaunchTemplateDetails:launchTemplateId=lt-09825ff5cd7118e00
